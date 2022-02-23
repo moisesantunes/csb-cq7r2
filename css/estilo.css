@@ -63,8 +63,8 @@ html {
 .frase {
   border: goldenrod 2px solid;
   color: goldenrod;
-  font-size: 2vw;
-  padding: 1.5vw;
+  font-size: 1.75vw;
+  padding: 1vw;
   border-radius: 1vw;
   background-color: rgba(226, 169, 12, 0.2);
 }
