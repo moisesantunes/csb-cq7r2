@@ -60,3 +60,12 @@ html {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+.frase {
+  border: whitesmoke 2px solid;
+  color: whitesmoke;
+  font-size: 4vw;
+  padding: 3vw;
+  border-radius: 2vw;
+  background-color: rgba(226, 169, 12, 0.2);
+}
+
